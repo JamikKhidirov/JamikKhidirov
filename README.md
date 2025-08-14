@@ -14,7 +14,7 @@
 
 
 <!-- Дополнительные метрики -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jamikkhidirov&theme=dracula" alt="Profile Details">
+<img height="300em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jamikkhidirov&theme=dracula" alt="Profile Details">
 
 
 ## 🚀 Обо мне
@@ -85,6 +85,7 @@
 - GitHub: [JamikKhidirov](https://github.com/jamikKhidirov)
 
 ⭐️ From [Hidirov Jamedin](https://github.com/jamikKhidirov) with ❤️
+
 
 
 
