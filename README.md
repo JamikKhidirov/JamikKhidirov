@@ -8,14 +8,14 @@
 
 
 
-<img height="190em" width=100% src="https://github-readme-stats.vercel.app/api?username=jamikkhidirov&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="GitHub Stats"/>
-<img height="190em" width=100% src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamikkhidirov&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&hide=html,css,scss" alt="Top Languages"/>
+<img height="190em" src="https://github-readme-stats.vercel.app/api?username=jamikkhidirov&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="GitHub Stats"/>
+
+<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamikkhidirov&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&hide=html,css,scss" alt="Top Languages"/>
 
 
 <!-- Дополнительные метрики -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jamikkhidirov&theme=dracula" alt="Profile Details" width="100%"/>
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jamikkhidirov&theme=dracula" alt="Profile Details">
+
 
 ## 🚀 Обо мне
 Я профессиональный Android-разработчик с более чем 2-летним опытом создания современных мобильных приложений. Специализируюсь на:
