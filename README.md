@@ -8,7 +8,7 @@
 
 
 
-<img height="190em" src="https://github-readme-stats.vercel.app/api?username=jamikkhidirov&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="GitHub Stats"/>
+<img height="200em" width="900em" src="https://github-readme-stats.vercel.app/api?username=jamikkhidirov&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="GitHub Stats"/>
 
 <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamikkhidirov&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&hide=html,css,scss" alt="Top Languages"/>
 
@@ -85,3 +85,4 @@
 - GitHub: [JamikKhidirov](https://github.com/jamikKhidirov)
 
 ⭐️ From [Hidirov Jamedin](https://github.com/jamikKhidirov) with ❤️
+
