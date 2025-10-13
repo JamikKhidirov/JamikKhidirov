@@ -4,7 +4,7 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Khidirov.18)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:dzamikkhidirov8@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/your-profile)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/u/JamikKhidirov)
 
 
 
@@ -85,6 +85,7 @@
 - GitHub: [JamikKhidirov](https://github.com/jamikKhidirov)
 
 ⭐️ From [Hidirov Jamedin](https://github.com/jamikKhidirov) with ❤️
+
 
 
 
