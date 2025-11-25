@@ -22,11 +22,12 @@
 
 
 ## 📫 Как связаться со мной
-- Telegram: [@Khidirov.18](https://t.me/Khidirov.18)
+- Telegram: [@Khidirov.18](https://t.me/Khidirov20)
 - Email: [dzamikhidirov8@gmail.com](mailto:dzamikkhidirov8@gmail.com)
 - GitHub: [JamikKhidirov](https://github.com/jamikKhidirov)
 
 ⭐️ From [Hidirov Jamedin](https://github.com/jamikKhidirov)️
+
 
 
 
