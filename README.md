@@ -33,33 +33,35 @@
 
 ### 🛠 Мой Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,android,compose,java,git,gradle,idea,figma" />
+  <img src="https://skillicons.dev/icons?i=kotlin,android,compose,java,git,gradle,androidstudio,figma" />
 </div>
 
 ---
 
-### 📊 GitHub Статистика (Максимально стабильная версия)
+### 📊 GitHub Статистика (Горизонтальное и стабильное отображение)
 
 <div align="center">
 
-<details>
-  <summary>Нажми, чтобы увидеть мои трофеи</summary>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=jamikKhidirov&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="jamikKhidirov" />
-  </a>
-</details>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=jamikkhidirov&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamikkhidirov&layout=compact&theme=dracula&hide_border=true&hide=html,css,scss" alt="Top Languages"/>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=jamikkhidirov&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats"/>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamikkhidirov&layout=compact&theme=dracula&hide_border=true&hide=html,css,scss" alt="Top Languages"/>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jamikkhidirov&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+
+<br/>
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=jamikKhidirov&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="jamikKhidirov" />
+</a>
 
 <br/>
 
