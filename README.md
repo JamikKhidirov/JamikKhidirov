@@ -1,32 +1,73 @@
+<div align="center">
+
 # 👋 Привет, я Джамедин Хидиров 
 ### Android Developer | Kotlin | Jetpack Compose | Modern Android Stack
 
-<div align="center">
-
-[![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Khidirov20)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:dzamikkhidirov8@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/u/JamikKhidirov)
-
-<br/><br/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jamikkhidirov&show_icons=true&theme=dracula&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="GitHub Stats"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamikkhidirov&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&hide=html,css,scss" alt="Top Languages"/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Building+Modern+Android+Apps;Kotlin+Enthusiast;Jetpack+Compose+Wizard;Clean+Architecture" alt="Typing SVG" />
+</a>
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jamikkhidirov&theme=dracula" alt="Profile Details">
+<p align="center">
+  <a href="https://t.me/Khidirov20" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="mailto:dzamikkhidirov8@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://linkedin.com/in/your-profile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/u/JamikKhidirov" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/>
+  </a>
+</p>
 
 </div>
 
-## 🚀 Обо мне
-Я профессиональный Android-разработчик с более чем 2-летним опытом создания современных мобильных приложений.
+---
 
+## 🚀 Обо мне
+Я профессиональный **Android-разработчик** с более чем **2-летним опытом** создания современных мобильных приложений. Специализируюсь на Kotlin, Jetpack Compose и работе с современным стеком Android.
+
+
+### 🛠 Мой Tech Stack
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,android,compose,java,git,gradle,idea,figma" />
+</div>
+
+---
+
+### 📊 GitHub Статистика (Стабильная версия)
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=jamikkhidirov&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=2196F3&title_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamikkhidirov&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&hide=html,css,scss" alt="Top Languages"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jamikkhidirov&theme=tokyonight&hide_border=true&bg_color=0D1117&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=jamikKhidirov&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="jamikKhidirov" />
+</a>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jamikkhidirov&bg_color=0D1117&color=58A6FF&line=2196F3&point=FFFFFF&hide_border=true" alt="Activity Graph"/>
+
+</div>
+
+---
 
 ## 📫 Как связаться со мной
 - Telegram: [@Khidirov20](https://t.me/Khidirov20)
 - Email: [dzamikkhidirov8@gmail.com](mailto:dzamikkhidirov8@gmail.com)
 - GitHub: [JamikKhidirov](https://github.com/jamikKhidirov)
 
-⭐️ From [Hidirov Jamedin](https://github.com/jamikKhidirov)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=jamikKhidirov&style=flat-square&color=blue&label=Profile+Views" alt=""/>
+</div>
