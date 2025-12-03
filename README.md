@@ -42,18 +42,9 @@
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=jamikkhidirov&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats"/>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamikkhidirov&layout=compact&theme=dracula&hide_border=true&hide=html,css,scss" alt="Top Languages"/>
-    </td>
-  </tr>
-</table>
-
 <br/>
+ <img src="https://github-readme-stats.vercel.app/api?username=jamikkhidirov&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamikkhidirov&layout=compact&theme=dracula&hide_border=true&hide=html,css,scss" alt="Top Languages"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jamikkhidirov&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 
@@ -79,3 +70,4 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=jamikKhidirov&style=flat-square&color=blue&label=Profile+Views" alt=""/>
 </div>
+
