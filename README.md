@@ -31,7 +31,6 @@
 ## 🚀 Обо мне
 Я профессиональный **Android-разработчик** с более чем **2-летним опытом** создания современных мобильных приложений. Специализируюсь на Kotlin, Jetpack Compose и работе с современным стеком Android.
 
-
 ### 🛠 Мой Tech Stack
 <div align="center">
   <img src="https://skillicons.dev/icons?i=kotlin,android,compose,java,git,gradle,idea,figma" />
@@ -39,21 +38,28 @@
 
 ---
 
-### 📊 GitHub Статистика (Стабильная версия)
+### 📊 GitHub Статистика (Максимально стабильная версия)
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jamikkhidirov&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=2196F3&title_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamikkhidirov&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&hide=html,css,scss" alt="Top Languages"/>
+<details>
+  <summary>Нажми, чтобы увидеть мои трофеи</summary>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=jamikKhidirov&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="jamikKhidirov" />
+  </a>
+</details>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jamikkhidirov&theme=tokyonight&hide_border=true&bg_color=0D1117&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=jamikkhidirov&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats"/>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=jamikKhidirov&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="jamikKhidirov" />
-</a>
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamikkhidirov&layout=compact&theme=dracula&hide_border=true&hide=html,css,scss" alt="Top Languages"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jamikkhidirov&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 
 <br/>
 
