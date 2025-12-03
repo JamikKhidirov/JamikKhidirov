@@ -1,9 +1,3 @@
-<div align="center">
-
-# 👋 Привет, я Джамедин Хидиров
-
-<div align="center">
-
 # 👋 Привет, я Джамедин Хидиров
 
 ### Android Developer | Kotlin | Jetpack Compose | Modern Android Stack
@@ -79,4 +73,5 @@
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=jamikkhidirov&style=flat-square&color=blue&label=Profile+Views" alt=""/>
 </div>
+
 
