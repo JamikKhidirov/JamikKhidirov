@@ -22,7 +22,6 @@
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/>
   </a>
 </p>
-
 </div>
 
 ---
@@ -37,7 +36,6 @@
 ---
 
 ### 📊 Моя статистика
-
 <div align="center">
 
 <table>
@@ -73,5 +71,6 @@
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=jamikkhidirov&style=flat-square&color=blue&label=Profile+Views" alt=""/>
 </div>
+
 
 
