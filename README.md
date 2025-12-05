@@ -43,10 +43,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jamikkhidirov&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 <br/>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=jamikKhidirov&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="jamikKhidirov" />
-</a>
-
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=jamikkhidirov&bg_color=0D1117&color=58A6FF&line=2196F3&point=FFFFFF&hide_border=true" alt="Activity Graph"/>
@@ -63,6 +59,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=jamikKhidirov&style=flat-square&color=blue&label=Profile+Views" alt=""/>
 </div>
+
 
 
 
