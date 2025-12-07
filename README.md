@@ -35,7 +35,7 @@
 
 ---
 
-### 📊 GitHub Статистика (Горизонтальное и стабильное отображение)
+### 📊 GitHub Статистика
 
 <div align="center">
 
@@ -59,6 +59,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=jamikKhidirov&style=flat-square&color=blue&label=Profile+Views" alt=""/>
 </div>
+
 
 
 
