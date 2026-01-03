@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Привет, я Джамедин Хидиров 
-### Android Developer | Kotlin | Jetpack Compose | Modern Android Stack
+### Android Developer
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Building+Modern+Android+Apps;Kotlin+Enthusiast;Jetpack+Compose+Wizard;Clean+Architecture" alt="Typing SVG" />
@@ -59,6 +59,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=jamikKhidirov&style=flat-square&color=blue&label=Profile+Views" alt=""/>
 </div>
+
 
 
 
