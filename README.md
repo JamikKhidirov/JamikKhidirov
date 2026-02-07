@@ -54,11 +54,11 @@
 ## 📫 Как связаться со мной
 - Telegram: [@Khidirov20](https://t.me/Khidirov20)
 - Email: [dzamikkhidirov8@gmail.com](mailto:dzamikkhidirov8@gmail.com)
-- GitHub: [JamikKhidirov](https://github.com/jamikKhidirov)
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=jamikKhidirov&style=flat-square&color=blue&label=Profile+Views" alt=""/>
 </div>
+
 
 
 
