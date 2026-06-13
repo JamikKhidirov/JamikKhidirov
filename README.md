@@ -31,7 +31,33 @@
 ## 🛠 Набор технологий
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=kotlin,android,compose,java,gradle,androidstudio,ktor,firebase,git,github,githubactions,postman,figma,sqlite,docker,bash,linux,cpp,cmake,md,vscode,stackoverflow" />
+<img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
+<img src="https://img.shields.io/badge/Retrofit-48B983?style=for-the-badge&logo=square&logoColor=white"/>
+<img src="https://img.shields.io/badge/OkHttp-3DDC84?style=for-the-badge&logo=square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dagger%20Hilt-2C2D72?style=for-the-badge&logo=square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Koin-FFD700?style=for-the-badge&logo=square&logoColor=black"/>
+<img src="https://img.shields.io/badge/Room-FF6F00?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/DataStore-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/WorkManager-4285F4?style=for-the-badge&logo=android&logoColor=white"/>
+<br/>
+<br/>
+<img src="https://img.shields.io/badge/Material%20Design%203-757575?style=for-the-badge&logo=materialdesign&logoColor=white"/>
+<img src="https://img.shields.io/badge/Navigation%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Coroutines-00BCD4?style=for-the-badge&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flow-00BCD4?style=for-the-badge&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Coil-0078D7?style=for-the-badge&logo=coil&logoColor=white"/>
+<img src="https://img.shields.io/badge/Glide-18BED4?style=for-the-badge&logo=glide&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ktor-087CFA?style=for-the-badge&logo=ktor&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<br/>
+<br/>
+<img src="https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<img src="https://img.shields.io/badge/Play%20Services-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
+<img src="https://img.shields.io/badge/Espresso-4CAF50?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Compose%20Multiplatform-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </div>
 
 ---
