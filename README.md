@@ -52,6 +52,16 @@
 <br/>
 <br/>
 
+### 🏆 Достижения
+<br/>
+<img src="https://img.shields.io/badge/615%2B%20Commits%20(2025)-2196F3?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/44%20PRs%20Merged-00E676?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/2%20Years%20Android%20Dev-7C4DFF?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin%20Enthusiast-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+
+<br/>
+<br/>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=jamikkhidirov&bg_color=0D1117&color=58A6FF&line=2196F3&point=FFFFFF&hide_border=true&area=true&area_color=2196F3&radius=8" alt="Activity Graph"/>
 
 </div>
