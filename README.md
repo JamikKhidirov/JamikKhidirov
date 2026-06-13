@@ -136,7 +136,7 @@
 <img src="https://img.shields.io/badge/ADB-FF6F00?style=for-the-badge&logo=android&logoColor=white"/>
 <img src="https://img.shields.io/badge/ProGuard-4285F4?style=for-the-badge&logo=android&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kotlin%20DSL-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 <br/>
 <br/>
