@@ -52,11 +52,6 @@
 <br/>
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=JamikKhidirov&theme=radical&margin-w=4&no-bg=true" alt="Trophies" />
-
-<br/>
-<br/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=jamikkhidirov&bg_color=0D1117&color=58A6FF&line=2196F3&point=FFFFFF&hide_border=true&area=true&area_color=2196F3&radius=8" alt="Activity Graph"/>
 
 </div>
