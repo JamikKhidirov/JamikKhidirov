@@ -57,7 +57,6 @@
 <img src="https://img.shields.io/badge/Dagger%202-2C2D72?style=for-the-badge&logo=square&logoColor=white"/>
 <img src="https://img.shields.io/badge/Dagger%20Hilt-2C2D72?style=for-the-badge&logo=square&logoColor=white"/>
 <img src="https://img.shields.io/badge/Koin-FFD700?style=for-the-badge&logo=square&logoColor=black"/>
-<img src="https://img.shields.io/badge/Manual%20DI-4285F4?style=for-the-badge&logo=android&logoColor=white"/>
 <br/>
 <br/>
 
@@ -115,7 +114,6 @@
 <img src="https://img.shields.io/badge/WorkManager-4285F4?style=for-the-badge&logo=android&logoColor=white"/>
 <img src="https://img.shields.io/badge/Paging%203-00BCD4?style=for-the-badge&logo=android&logoColor=white"/>
 <img src="https://img.shields.io/badge/Lifecycle-4285F4?style=for-the-badge&logo=android&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hilt%20ViewModel-2C2D72?style=for-the-badge&logo=square&logoColor=white"/>
 <br/>
 <br/>
 
