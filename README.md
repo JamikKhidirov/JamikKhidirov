@@ -12,20 +12,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=520&lines=Building+Modern+Android+Apps;Kotlin+%26+Jetpack+Compose+Expert;Clean+Architecture+Advocate;Open+Source+Contributor;Always+Learning+%26+Growing;Turning+Coffee+Into+Code" alt="Typing SVG" />
 </a>
 
-<br/>
 
-<!-- Social badges -->
-<p align="center">
-  <a href="https://t.me/Khidirov20">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&logoWidth=20&labelColor=0D1117" alt="Telegram"/>
-  </a>
-  <a href="mailto:dzamikkhidirov8@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20&labelColor=0D1117" alt="Gmail"/>
-  </a>
-  <a href="https://leetcode.com/u/JamikKhidirov">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&logoWidth=20&labelColor=0D1117" alt="LeetCode"/>
-  </a>
-</p>
 
 </div>
 
@@ -35,7 +22,7 @@
 
 Я **Android-разработчик** с опытом создания современных мобильных приложений на **Kotlin** и **Jetpack Compose**.
 
-🌱 **Сейчас изучаю:** Kotlin Multiplatform, Compose Multiplatform, Ktor Server
+🌱 **Сейчас изучаю:** Kotlin Multiplatform, Compose Multiplatform
 
 ⚡ **В свободное время:** решаю задачи на LeetCode, читаю технические статьи, экспериментирую с новыми технологиями.
 
@@ -65,7 +52,7 @@
 <br/>
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=jamikkhidirov&theme=radical&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15" alt="Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=JamikKhidirov&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="Trophies" />
 
 <br/>
 <br/>
