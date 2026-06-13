@@ -52,15 +52,7 @@
 ## 🛠 Набор технологий
 
 <div align="center">
-
-### Языки и инструменты
 <img src="https://skillicons.dev/icons?i=kotlin,android,compose,java,gradle,androidstudio,ktor,firebase,git,github,githubactions,postman,figma,sqlite" />
-<br/>
-
-### Фреймворки и библиотеки
-<br/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=androidstudio,kotlin,jetpackcompose,dagger,hilt,retrofit,ktor,okhttp,room,coroutines,flow,koin,coil,navigation,materialdesign,datastore" alt="libraries" />
-
 </div>
 
 ---
