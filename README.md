@@ -64,7 +64,7 @@
 <br/>
 <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
 <img src="https://img.shields.io/badge/Material%20Design%203-757575?style=for-the-badge&logo=materialdesign&logoColor=white"/>
-<img src="https://img.shields.io/badge/XML%20Layouts-FF6F00?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/View-FF6F00?style=for-the-badge&logo=android&logoColor=white"/>
 <img src="https://img.shields.io/badge/ConstraintLayout-4285F4?style=for-the-badge&logo=android&logoColor=white"/>
 <img src="https://img.shields.io/badge/Navigation%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white"/>
 <img src="https://img.shields.io/badge/Compose%20Animation-FF6F00?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
