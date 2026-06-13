@@ -31,33 +31,127 @@
 ## 🛠 Набор технологий
 
 <div align="center">
-<img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
+
+**💻 Языки**
+<br/>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+<br/>
+<br/>
+
+**🗄️ Сеть и API**
+<br/>
+<img src="https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge&logo=api&logoColor=white"/>
+<img src="https://img.shields.io/badge/WebSocket-4FC08D?style=for-the-badge&logo=socket.io&logoColor=white"/>
 <img src="https://img.shields.io/badge/Retrofit-48B983?style=for-the-badge&logo=square&logoColor=white"/>
 <img src="https://img.shields.io/badge/OkHttp-3DDC84?style=for-the-badge&logo=square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ktor%20Client-087CFA?style=for-the-badge&logo=ktor&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gson-FFCA28?style=for-the-badge&logo=google&logoColor=black"/>
+<img src="https://img.shields.io/badge/Moshi-FF5722?style=for-the-badge&logo=square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin%20Serialization-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+<br/>
+<br/>
+
+**💉 DI (Dependency Injection)**
+<br/>
+<img src="https://img.shields.io/badge/Dagger%202-2C2D72?style=for-the-badge&logo=square&logoColor=white"/>
 <img src="https://img.shields.io/badge/Dagger%20Hilt-2C2D72?style=for-the-badge&logo=square&logoColor=white"/>
 <img src="https://img.shields.io/badge/Koin-FFD700?style=for-the-badge&logo=square&logoColor=black"/>
-<img src="https://img.shields.io/badge/Room-FF6F00?style=for-the-badge&logo=sqlite&logoColor=white"/>
-<img src="https://img.shields.io/badge/DataStore-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/WorkManager-4285F4?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Manual%20DI-4285F4?style=for-the-badge&logo=android&logoColor=white"/>
 <br/>
 <br/>
+
+**🎨 UI и UX**
+<br/>
+<img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
 <img src="https://img.shields.io/badge/Material%20Design%203-757575?style=for-the-badge&logo=materialdesign&logoColor=white"/>
+<img src="https://img.shields.io/badge/XML%20Layouts-FF6F00?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/ConstraintLayout-4285F4?style=for-the-badge&logo=android&logoColor=white"/>
 <img src="https://img.shields.io/badge/Navigation%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white"/>
-<img src="https://img.shields.io/badge/Coroutines-00BCD4?style=for-the-badge&logo=kotlin&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flow-00BCD4?style=for-the-badge&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Compose%20Animation-FF6F00?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
 <img src="https://img.shields.io/badge/Coil-0078D7?style=for-the-badge&logo=coil&logoColor=white"/>
 <img src="https://img.shields.io/badge/Glide-18BED4?style=for-the-badge&logo=glide&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ktor-087CFA?style=for-the-badge&logo=ktor&logoColor=white"/>
+<img src="https://img.shields.io/badge/Custom%20Views-FF6F00?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<br/>
+<br/>
+
+**🗄️ Локальное хранение**
+<br/>
+<img src="https://img.shields.io/badge/Room-FF6F00?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/DataStore-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/SharedPreferences-FF6F00?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<br/>
+<br/>
+
+**⚙️ Архитектура и паттерны**
+<br/>
+<img src="https://img.shields.io/badge/MVVM-2196F3?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/MVI-7C4DFF?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Clean%20Architecture-00BCD4?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/CQRS-FF6F00?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/SOLID-4CAF50?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Repository%20Pattern-2196F3?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/UseCase-00BCD4?style=for-the-badge&logo=android&logoColor=white"/>
+<br/>
+<br/>
+
+**🧪 Тестирование**
+<br/>
+<img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mockito-8BC34A?style=for-the-badge&logo=square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Espresso-4CAF50?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Compose%20UI%20Test-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
+<img src="https://img.shields.io/badge/Robolectric-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Turbine-FF6F00?style=for-the-badge&logo=android&logoColor=white"/>
+<br/>
+<br/>
+
+**📱 Android Jetpack**
+<br/>
+<img src="https://img.shields.io/badge/ViewModel-4285F4?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/LiveData-FF6F00?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/WorkManager-4285F4?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Paging%203-00BCD4?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Lifecycle-4285F4?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hilt%20ViewModel-2C2D72?style=for-the-badge&logo=square&logoColor=white"/>
+<br/>
+<br/>
+
+**☁️ Firebase и сервисы**
+<br/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-<br/>
-<br/>
+<img src="https://img.shields.io/badge/Crashlytics-FF5722?style=for-the-badge&logo=firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Analytics-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/FCM-4285F4?style=for-the-badge&logo=firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Remote%20Config-FF6F00?style=for-the-badge&logo=firebase&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 <img src="https://img.shields.io/badge/Play%20Services-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
-<img src="https://img.shields.io/badge/Espresso-4CAF50?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/Compose%20Multiplatform-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
+<br/>
+<br/>
+
+**🛠️ Инструменты**
+<br/>
+<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/ADB-FF6F00?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/ProGuard-4285F4?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin%20DSL-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<br/>
+<br/>
+
+**🧵 Асинхронность**
+<br/>
+<img src="https://img.shields.io/badge/Coroutines-00BCD4?style=for-the-badge&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flow-00BCD4?style=for-the-badge&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/StateFlow-00BCD4?style=for-the-badge&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/SharedFlow-00BCD4?style=for-the-badge&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Channels-00BCD4?style=for-the-badge&logo=kotlin&logoColor=white"/>
+
 </div>
 
 ---
