@@ -52,7 +52,7 @@
 <br/>
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=JamikKhidirov&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=JamikKhidirov&theme=radical&margin-w=4&no-bg=true" alt="Trophies" />
 
 <br/>
 <br/>
