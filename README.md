@@ -25,15 +25,7 @@
   <a href="https://leetcode.com/u/JamikKhidirov">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&logoWidth=20&labelColor=0D1117" alt="LeetCode"/>
   </a>
-  <a href="https://github.com/JamikKhidirov">
-    <img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=white&logoWidth=20&labelColor=0D1117" alt="GitHub"/>
-  </a>
 </p>
-
-<br/>
-
-<!-- Animated quote -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 
 </div>
 
@@ -52,7 +44,7 @@
 ## 🛠 Набор технологий
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=kotlin,android,compose,java,gradle,androidstudio,ktor,firebase,git,github,githubactions,postman,figma,sqlite" />
+<img src="https://skillicons.dev/icons?i=kotlin,android,compose,java,gradle,androidstudio,ktor,firebase,git,github,githubactions,postman,figma,sqlite,docker,bash,linux,cpp,cmake,md,vscode,stackoverflow" />
 </div>
 
 ---
