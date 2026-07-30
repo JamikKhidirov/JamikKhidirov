@@ -18,9 +18,14 @@
 
 ## 🛠 Технологический стек
 
-| Категория | Технологии |
+### 💻 Языки программирования
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+<br/>
+
+### ⚙️ Технологии и библиотеки
+| Категория | Инструменты |
 | :--- | :--- |
-| **Языки** | Kotlin, Java |
 | **Архитектура** | Clean Architecture, MVVM, MVI, SOLID, Dependency Injection (Hilt, Dagger 2, Koin) |
 | **UI / UX** | Jetpack Compose, View System, Material Design 3, Compose Animation, Custom Views |
 | **Асинхронность** | Kotlin Coroutines, Flow (StateFlow, SharedFlow, Channels) |
